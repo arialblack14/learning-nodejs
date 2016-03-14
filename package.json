@@ -1,0 +1,28 @@
+{
+  "name": "learning-nodejs",
+  "version": "0.1.0",
+  "description": "My journey on learning node starts here.",
+  "main": "rectangle-1.js",
+  "dependencies": {
+    "yargs": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arialblack14/learning-nodejs"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "node.js"
+  ],
+  "author": "Alex Tsiras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arialblack14/learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/arialblack14/learning-nodejs"
+}
