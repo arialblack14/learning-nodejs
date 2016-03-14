@@ -16,4 +16,4 @@ module.exports = function(x, y, callback) {
   catch (error) {
     callback(error, null);
   }
-}
+};
